@@ -1,0 +1,4 @@
+- stack (list implementation)
+- intro (LIFO operatoins)
+- operations on stacc (push && pop)
+- implementation in python for stack (list)

@@ -1,0 +1,7 @@
+- syntax errors
+- exceptions
+- need for exceptions handling
+- user defined exceptions 
+- raising exceptions 
+- handling exceptions 
+- catching exceptions

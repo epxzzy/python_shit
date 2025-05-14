@@ -1,0 +1,5 @@
+- sequential search
+- binary search
+- analysis for both of the above
+- dry run to identify best, worst and avrg cases
+- implementation of searching techiniques in python
